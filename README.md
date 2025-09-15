@@ -1,7 +1,14 @@
- 👋 Hi, I’m Blaise Ndizeye, Software Developer / UIUX Designer focused on building projects and practicing appropriate technologies for both Team, Client and my Own productivity. </br>
- 🌱 Open and collaborative </br>
- 💞️ Freelancing </br>
- 📫 DM: +250787657134, [blaiseendizeye@gmail.com](mailto:blaiseendizeye@gmail.com) or Instagram: @blaiseendizeye </br>
+# 👋 Hi, I’m Blaise Ndizeye  
+
+💻 Software Developer & UI/UX Designer  
+🚀 Passionate about building impactful projects for teams, clients, and personal growth  
+🤝 Open to collaboration & freelance opportunities  
+
+📫 Reach me at:  
+- Email: [blaiseendizeye@gmail.com](mailto:blaiseendizeye@gmail.com)  
+- Instagram: [@blaiseendizeye](https://instagram.com/blaiseendizeye)  
+- Phone/WhatsApp: +250 787 657 134  
+
 
 <!---
 blaise-ndizeye/blaise-ndizeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
