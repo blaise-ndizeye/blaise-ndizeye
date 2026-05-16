@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Blaise Ndizeye  
 
-💻 Software Developer & UI/UX Designer  
+💻 Software Engineer | UI/UX Designer  
 🚀 Passionate about building impactful projects for teams, clients, and personal growth  
 🤝 Open to collaboration & freelance opportunities  
 
